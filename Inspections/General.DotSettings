@@ -1,0 +1,44 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=D7EC079A413E934BB1D3FC50986A8B50/Entry/=261257E3E48FED4ABDE673A1D14DCDD9/EntryName/@EntryValue">JsController</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=D7EC079A413E934BB1D3FC50986A8B50/Entry/=261257E3E48FED4ABDE673A1D14DCDD9/Position/@EntryValue">3</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7D57C002761A2647BB97677693A3FD6D/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7D57C002761A2647BB97677693A3FD6D/Comment/@EntryValue">Use AddRange instead of iterating the enumerable.</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7D57C002761A2647BB97677693A3FD6D/CustomPatternPlaceholder/=enumerable/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7D57C002761A2647BB97677693A3FD6D/CustomPatternPlaceholder/=enumerable/Properties/=ExactType/@EntryIndexedValue">False</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7D57C002761A2647BB97677693A3FD6D/CustomPatternPlaceholder/=enumerable/Properties/=ExpressionType/@EntryIndexedValue">System.Collections.IEnumerable</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7D57C002761A2647BB97677693A3FD6D/CustomPatternPlaceholder/=enumerable/Type/@EntryValue">ExpressionPlaceholder</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7D57C002761A2647BB97677693A3FD6D/CustomPatternPlaceholder/=item/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7D57C002761A2647BB97677693A3FD6D/CustomPatternPlaceholder/=item/Properties/=CaseSensitive/@EntryIndexedValue">True</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7D57C002761A2647BB97677693A3FD6D/CustomPatternPlaceholder/=item/Properties/=ExactType/@EntryIndexedValue">False</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7D57C002761A2647BB97677693A3FD6D/CustomPatternPlaceholder/=item/Properties/=RegEx/@EntryIndexedValue"></s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7D57C002761A2647BB97677693A3FD6D/CustomPatternPlaceholder/=item/Type/@EntryValue">IdentifierPlaceholder</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7D57C002761A2647BB97677693A3FD6D/CustomPatternPlaceholder/=list/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7D57C002761A2647BB97677693A3FD6D/CustomPatternPlaceholder/=list/Properties/=ExactType/@EntryIndexedValue">False</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7D57C002761A2647BB97677693A3FD6D/CustomPatternPlaceholder/=list/Properties/=ExpressionType/@EntryIndexedValue">System.Collections.IList</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7D57C002761A2647BB97677693A3FD6D/CustomPatternPlaceholder/=list/Type/@EntryValue">ExpressionPlaceholder</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7D57C002761A2647BB97677693A3FD6D/IsReplacePattern/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7D57C002761A2647BB97677693A3FD6D/LanguageName/@EntryValue">CSHARP</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7D57C002761A2647BB97677693A3FD6D/ReplaceComment/@EntryValue">Use AddRange method</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7D57C002761A2647BB97677693A3FD6D/ReplacePattern/@EntryValue">$list$.AddRange($enumerable$);&#xD;
+</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7D57C002761A2647BB97677693A3FD6D/SearchPattern/@EntryValue">foreach (var $item$ in $enumerable$)&#xD;
+{&#xD;
+	$list$.Add($item$);&#xD;
+}</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7D57C002761A2647BB97677693A3FD6D/Severity/@EntryValue">SUGGESTION</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=F87ADCCE7EA4D1489335810385973EBE/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=F87ADCCE7EA4D1489335810385973EBE/Comment/@EntryValue">Use AppendFormat with StringBuilder</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=F87ADCCE7EA4D1489335810385973EBE/CustomPatternPlaceholder/=args/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=F87ADCCE7EA4D1489335810385973EBE/CustomPatternPlaceholder/=args/Properties/=Maximal/@EntryIndexedValue">-1</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=F87ADCCE7EA4D1489335810385973EBE/CustomPatternPlaceholder/=args/Properties/=Minimal/@EntryIndexedValue">2</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=F87ADCCE7EA4D1489335810385973EBE/CustomPatternPlaceholder/=args/Type/@EntryValue">ArgumentPlaceholder</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=F87ADCCE7EA4D1489335810385973EBE/CustomPatternPlaceholder/=builder/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=F87ADCCE7EA4D1489335810385973EBE/CustomPatternPlaceholder/=builder/Properties/=ExactType/@EntryIndexedValue">True</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=F87ADCCE7EA4D1489335810385973EBE/CustomPatternPlaceholder/=builder/Properties/=ExpressionType/@EntryIndexedValue">System.Text.StringBuilder</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=F87ADCCE7EA4D1489335810385973EBE/CustomPatternPlaceholder/=builder/Type/@EntryValue">ExpressionPlaceholder</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=F87ADCCE7EA4D1489335810385973EBE/IsReplacePattern/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=F87ADCCE7EA4D1489335810385973EBE/LanguageName/@EntryValue">CSHARP</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=F87ADCCE7EA4D1489335810385973EBE/ReplaceComment/@EntryValue">Use StringBuilder.AppendFormat method</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=F87ADCCE7EA4D1489335810385973EBE/ReplacePattern/@EntryValue">$builder$.AppendFormat($args$)</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=F87ADCCE7EA4D1489335810385973EBE/SearchPattern/@EntryValue">$builder$.Append(string.Format($args$))</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=F87ADCCE7EA4D1489335810385973EBE/Severity/@EntryValue">SUGGESTION</s:String></wpf:ResourceDictionary>

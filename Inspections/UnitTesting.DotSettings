@@ -1,0 +1,134 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0FA7A9C70D17BF41B2B9DF7A0BF3857F/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0FA7A9C70D17BF41B2B9DF7A0BF3857F/Comment/@EntryValue">Use verbose asserts for test failures</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0FA7A9C70D17BF41B2B9DF7A0BF3857F/CustomPatternPlaceholder/=Assert/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0FA7A9C70D17BF41B2B9DF7A0BF3857F/CustomPatternPlaceholder/=Assert/Properties/=ExactType/@EntryIndexedValue">True</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0FA7A9C70D17BF41B2B9DF7A0BF3857F/CustomPatternPlaceholder/=Assert/Properties/=Type/@EntryIndexedValue">Microsoft.VisualStudio.TestTools.UnitTesting.Assert</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0FA7A9C70D17BF41B2B9DF7A0BF3857F/CustomPatternPlaceholder/=Assert/Type/@EntryValue">TypePlaceholder</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0FA7A9C70D17BF41B2B9DF7A0BF3857F/CustomPatternPlaceholder/=substring/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0FA7A9C70D17BF41B2B9DF7A0BF3857F/CustomPatternPlaceholder/=substring/Properties/=ExactType/@EntryIndexedValue">True</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0FA7A9C70D17BF41B2B9DF7A0BF3857F/CustomPatternPlaceholder/=substring/Properties/=ExpressionType/@EntryIndexedValue">System.String</s:String>
+	
+	
+	
+	
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0FA7A9C70D17BF41B2B9DF7A0BF3857F/CustomPatternPlaceholder/=substring/Type/@EntryValue">ExpressionPlaceholder</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0FA7A9C70D17BF41B2B9DF7A0BF3857F/CustomPatternPlaceholder/=value/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0FA7A9C70D17BF41B2B9DF7A0BF3857F/CustomPatternPlaceholder/=value/Properties/=ExactType/@EntryIndexedValue">True</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0FA7A9C70D17BF41B2B9DF7A0BF3857F/CustomPatternPlaceholder/=value/Properties/=ExpressionType/@EntryIndexedValue">System.String</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0FA7A9C70D17BF41B2B9DF7A0BF3857F/CustomPatternPlaceholder/=value/Type/@EntryValue">ExpressionPlaceholder</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0FA7A9C70D17BF41B2B9DF7A0BF3857F/IsReplacePattern/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0FA7A9C70D17BF41B2B9DF7A0BF3857F/LanguageName/@EntryValue">CSHARP</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0FA7A9C70D17BF41B2B9DF7A0BF3857F/ReplaceComment/@EntryValue">Use StringAssert.Contains method</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0FA7A9C70D17BF41B2B9DF7A0BF3857F/ReplacePattern/@EntryValue">Microsoft.VisualStudio.TestTools.UnitTesting.StringAssert.Contains($value$,$substring$);</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0FA7A9C70D17BF41B2B9DF7A0BF3857F/SearchPattern/@EntryValue">$Assert$.AreEqual(true, $value$.Contains($substring$));&#xD;
+</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0FA7A9C70D17BF41B2B9DF7A0BF3857F/Severity/@EntryValue">WARNING</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7D80C5FAFF0BDF4E8FAB39667B0D0F37/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7D80C5FAFF0BDF4E8FAB39667B0D0F37/Comment/@EntryValue">Use verbose asserts for test failures</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7D80C5FAFF0BDF4E8FAB39667B0D0F37/CustomPatternPlaceholder/=Assert/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7D80C5FAFF0BDF4E8FAB39667B0D0F37/CustomPatternPlaceholder/=Assert/Properties/=ExactType/@EntryIndexedValue">True</s:String>
+	
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7D80C5FAFF0BDF4E8FAB39667B0D0F37/CustomPatternPlaceholder/=Assert/Properties/=Type/@EntryIndexedValue">Microsoft.VisualStudio.TestTools.UnitTesting.Assert</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7D80C5FAFF0BDF4E8FAB39667B0D0F37/CustomPatternPlaceholder/=Assert/Type/@EntryValue">TypePlaceholder</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7D80C5FAFF0BDF4E8FAB39667B0D0F37/CustomPatternPlaceholder/=substring/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7D80C5FAFF0BDF4E8FAB39667B0D0F37/CustomPatternPlaceholder/=substring/Properties/=ExactType/@EntryIndexedValue">True</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7D80C5FAFF0BDF4E8FAB39667B0D0F37/CustomPatternPlaceholder/=substring/Properties/=ExpressionType/@EntryIndexedValue">System.String</s:String>
+	
+	
+	
+	
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7D80C5FAFF0BDF4E8FAB39667B0D0F37/CustomPatternPlaceholder/=substring/Type/@EntryValue">ExpressionPlaceholder</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7D80C5FAFF0BDF4E8FAB39667B0D0F37/CustomPatternPlaceholder/=value/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7D80C5FAFF0BDF4E8FAB39667B0D0F37/CustomPatternPlaceholder/=value/Properties/=ExactType/@EntryIndexedValue">True</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7D80C5FAFF0BDF4E8FAB39667B0D0F37/CustomPatternPlaceholder/=value/Properties/=ExpressionType/@EntryIndexedValue">System.String</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7D80C5FAFF0BDF4E8FAB39667B0D0F37/CustomPatternPlaceholder/=value/Type/@EntryValue">ExpressionPlaceholder</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7D80C5FAFF0BDF4E8FAB39667B0D0F37/IsReplacePattern/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7D80C5FAFF0BDF4E8FAB39667B0D0F37/LanguageName/@EntryValue">CSHARP</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7D80C5FAFF0BDF4E8FAB39667B0D0F37/ReplaceComment/@EntryValue">Use StringAssert.Contains method</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7D80C5FAFF0BDF4E8FAB39667B0D0F37/ReplacePattern/@EntryValue">Microsoft.VisualStudio.TestTools.UnitTesting.StringAssert.Contains($value$,$substring$);</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7D80C5FAFF0BDF4E8FAB39667B0D0F37/SearchPattern/@EntryValue">$Assert$.IsTrue($value$.Contains($substring$));&#xD;
+</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7D80C5FAFF0BDF4E8FAB39667B0D0F37/Severity/@EntryValue">WARNING</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E0F6D68A9D500044926B20F58A7364A7/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E0F6D68A9D500044926B20F58A7364A7/Comment/@EntryValue">Use verbose asserts for test failures</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E0F6D68A9D500044926B20F58A7364A7/CustomPatternPlaceholder/=Assert/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E0F6D68A9D500044926B20F58A7364A7/CustomPatternPlaceholder/=Assert/Properties/=ExactType/@EntryIndexedValue">True</s:String>
+	
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E0F6D68A9D500044926B20F58A7364A7/CustomPatternPlaceholder/=Assert/Properties/=Type/@EntryIndexedValue">Microsoft.VisualStudio.TestTools.UnitTesting.Assert</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E0F6D68A9D500044926B20F58A7364A7/CustomPatternPlaceholder/=Assert/Type/@EntryValue">TypePlaceholder</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E0F6D68A9D500044926B20F58A7364A7/CustomPatternPlaceholder/=message/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E0F6D68A9D500044926B20F58A7364A7/CustomPatternPlaceholder/=message/Properties/=Maximal/@EntryIndexedValue">-1</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E0F6D68A9D500044926B20F58A7364A7/CustomPatternPlaceholder/=message/Properties/=Minimal/@EntryIndexedValue">1</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E0F6D68A9D500044926B20F58A7364A7/CustomPatternPlaceholder/=message/Type/@EntryValue">ArgumentPlaceholder</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E0F6D68A9D500044926B20F58A7364A7/CustomPatternPlaceholder/=substring/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E0F6D68A9D500044926B20F58A7364A7/CustomPatternPlaceholder/=substring/Properties/=ExactType/@EntryIndexedValue">True</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E0F6D68A9D500044926B20F58A7364A7/CustomPatternPlaceholder/=substring/Properties/=ExpressionType/@EntryIndexedValue">System.String</s:String>
+	
+	
+	
+	
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E0F6D68A9D500044926B20F58A7364A7/CustomPatternPlaceholder/=substring/Type/@EntryValue">ExpressionPlaceholder</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E0F6D68A9D500044926B20F58A7364A7/CustomPatternPlaceholder/=value/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E0F6D68A9D500044926B20F58A7364A7/CustomPatternPlaceholder/=value/Properties/=ExactType/@EntryIndexedValue">True</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E0F6D68A9D500044926B20F58A7364A7/CustomPatternPlaceholder/=value/Properties/=ExpressionType/@EntryIndexedValue">System.String</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E0F6D68A9D500044926B20F58A7364A7/CustomPatternPlaceholder/=value/Type/@EntryValue">ExpressionPlaceholder</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E0F6D68A9D500044926B20F58A7364A7/IsReplacePattern/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E0F6D68A9D500044926B20F58A7364A7/LanguageName/@EntryValue">CSHARP</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E0F6D68A9D500044926B20F58A7364A7/ReplaceComment/@EntryValue">Use StringAssert.Contains method</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E0F6D68A9D500044926B20F58A7364A7/ReplacePattern/@EntryValue">Microsoft.VisualStudio.TestTools.UnitTesting.StringAssert.Contains($value$,$substring$, $message$);</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E0F6D68A9D500044926B20F58A7364A7/SearchPattern/@EntryValue">$Assert$.AreEqual(true, $value$.Contains($substring$), $message$);&#xD;
+</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E0F6D68A9D500044926B20F58A7364A7/Severity/@EntryValue">WARNING</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E54E408998C51B408BD20BE48AB89CC9/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E54E408998C51B408BD20BE48AB89CC9/Comment/@EntryValue">Use verbose asserts for test failures</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E54E408998C51B408BD20BE48AB89CC9/CustomPatternPlaceholder/=Assert/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E54E408998C51B408BD20BE48AB89CC9/CustomPatternPlaceholder/=Assert/Properties/=ExactType/@EntryIndexedValue">True</s:String>
+	
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E54E408998C51B408BD20BE48AB89CC9/CustomPatternPlaceholder/=Assert/Properties/=Type/@EntryIndexedValue">Microsoft.VisualStudio.TestTools.UnitTesting.Assert</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E54E408998C51B408BD20BE48AB89CC9/CustomPatternPlaceholder/=Assert/Type/@EntryValue">TypePlaceholder</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E54E408998C51B408BD20BE48AB89CC9/CustomPatternPlaceholder/=message/@KeyIndexDefined">True</s:Boolean>
+	
+	
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E54E408998C51B408BD20BE48AB89CC9/CustomPatternPlaceholder/=message/Properties/=Maximal/@EntryIndexedValue">-1</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E54E408998C51B408BD20BE48AB89CC9/CustomPatternPlaceholder/=message/Properties/=Minimal/@EntryIndexedValue">-1</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E54E408998C51B408BD20BE48AB89CC9/CustomPatternPlaceholder/=message/Type/@EntryValue">ArgumentPlaceholder</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E54E408998C51B408BD20BE48AB89CC9/CustomPatternPlaceholder/=substring/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E54E408998C51B408BD20BE48AB89CC9/CustomPatternPlaceholder/=substring/Properties/=ExactType/@EntryIndexedValue">True</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E54E408998C51B408BD20BE48AB89CC9/CustomPatternPlaceholder/=substring/Properties/=ExpressionType/@EntryIndexedValue">System.String</s:String>
+	
+	
+	
+	
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E54E408998C51B408BD20BE48AB89CC9/CustomPatternPlaceholder/=substring/Type/@EntryValue">ExpressionPlaceholder</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E54E408998C51B408BD20BE48AB89CC9/CustomPatternPlaceholder/=value/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E54E408998C51B408BD20BE48AB89CC9/CustomPatternPlaceholder/=value/Properties/=ExactType/@EntryIndexedValue">True</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E54E408998C51B408BD20BE48AB89CC9/CustomPatternPlaceholder/=value/Properties/=ExpressionType/@EntryIndexedValue">System.String</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E54E408998C51B408BD20BE48AB89CC9/CustomPatternPlaceholder/=value/Type/@EntryValue">ExpressionPlaceholder</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E54E408998C51B408BD20BE48AB89CC9/IsReplacePattern/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E54E408998C51B408BD20BE48AB89CC9/LanguageName/@EntryValue">CSHARP</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E54E408998C51B408BD20BE48AB89CC9/ReplaceComment/@EntryValue">Use StringAssert.Contains method</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E54E408998C51B408BD20BE48AB89CC9/ReplacePattern/@EntryValue">Microsoft.VisualStudio.TestTools.UnitTesting.StringAssert.Contains($value$,$substring$, $message$);</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E54E408998C51B408BD20BE48AB89CC9/SearchPattern/@EntryValue">$Assert$.IsTrue($value$.Contains($substring$), $message$);&#xD;
+</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E54E408998C51B408BD20BE48AB89CC9/Severity/@EntryValue">WARNING</s:String>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</wpf:ResourceDictionary>
